@@ -20,6 +20,7 @@ In `_config.yml` remember to specify your own data:
       email : blah@email.test
       github : username
       twitter : username
+      hello way
 
 The theme should reference these variables whenever needed.
     
