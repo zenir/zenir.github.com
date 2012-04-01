@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ihaveu Team
+title: Zenir
 tagline: 
 ---
 {% include JB/setup %}
